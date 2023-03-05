@@ -1,0 +1,8 @@
+Technicalwise:
+-Ref model (c / pyhton)
+-Connect driver to scoreboard (done)
+-How to tie ref model to uvm environment(done)
+-coverage for aes  ()
+-randomization aes ()
+Conceptiual:
+-Test plans ()
